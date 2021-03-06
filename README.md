@@ -8,6 +8,15 @@ The entire project requires `SFML` to build this game.
 
 The project is built for learning purpose - mainly `C++`, `SFML`, `Game Developing`, `git`. 
 
+## Intro
+This game is modified from the traditional snake game. 
+- [ ] 1. Two players are allowed
+- [ ] 2. Multi-points in the map
+- [ ] 3. Bombs can be placed to attack others, including yourself
+- [ ] 4. Whenever touching a bomb, the length will be cut by 3
+- [ ] 5. If you run into obstacles, or the length become 0, you lose the game
+- [ ] 6. Fair is allowed when you run into the other one by head (both of your lengths are equal) 
+
 ## How to Play
 Two pre-set snakes are for you (and your friend) to play:
 
