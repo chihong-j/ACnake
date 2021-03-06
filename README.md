@@ -10,12 +10,12 @@ The project is built for learning purpose - mainly `C++`, `SFML`, `Game Developi
 
 ## Intro
 This game is modified from the traditional snake game. 
-- 1. Two players are allowed
-- 2. Multi-points in the map
-- 3. Bombs can be placed to attack others, including yourself
-- 4. Whenever touching a bomb, the length will be cut by 3
-- 5. If you run into obstacles or the length become 0, you lose the game
-- 6. Fair game happened when you run into the other one by head (both of your lengths are equal) 
+- Two players are allowed
+- Multi-points in the map
+- Bombs can be placed to attack others, including yourself
+- Whenever touching a bomb, the length will be cut by 3
+- If you run into obstacles or the length become 0, you lose the game
+- Fair game happened when you run into the other one by head (both of your lengths are equal) 
 
 ## How to Play
 Two pre-set snakes are for you and the other person to play:
@@ -91,6 +91,8 @@ To really remove `A Cnake` game from your device, type `make remove`.
 ## Contributors
 + Pony
 + Watermelon Man
++ Brian
++ chihong-j
 + Other resources from the Internet (Mostly from [SFML-dev.org](https://www.sfml-dev.org))
 
 
