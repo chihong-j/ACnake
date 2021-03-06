@@ -24,6 +24,7 @@ Two pre-set snakes are for you and the other person to play:
 ![yellow-snake](resources/images/yellow.png)
 
 Instructions:
+
 ![info page1](resources/images/instra1.png)
 ![info page2](resources/images/instra2.PNG)
 ![info page3](resources/images/instra3.PNG)
