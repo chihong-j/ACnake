@@ -10,20 +10,20 @@ The project is built for learning purpose - mainly `C++`, `SFML`, `Game Developi
 
 ## Intro
 This game is modified from the traditional snake game. 
-- [ ] 1. Two players are allowed
-- [ ] 2. Multi-points in the map
-- [ ] 3. Bombs can be placed to attack others, including yourself
-- [ ] 4. Whenever touching a bomb, the length will be cut by 3
-- [ ] 5. If you run into obstacles, or the length become 0, you lose the game
-- [ ] 6. Fair is allowed when you run into the other one by head (both of your lengths are equal) 
+- 1. Two players are allowed
+- 2. Multi-points in the map
+- 3. Bombs can be placed to attack others, including yourself
+- 4. Whenever touching a bomb, the length will be cut by 3
+- 5. If you run into obstacles or the length become 0, you lose the game
+- 6. Fair game happened when you run into the other one by head (both of your lengths are equal) 
 
 ## How to Play
-Two pre-set snakes are for you (and your friend) to play:
+Two pre-set snakes are for you and the other person to play:
 
 ![blue snake](resources/images/blue.png)
 ![yellow-snake](resources/images/yellow.png)
 
-Instructions (can be seen in the game itself):
+Instructions:
 ![info page1](resources/images/instra1.png)
 ![info page2](resources/images/instra2.PNG)
 ![info page3](resources/images/instra3.PNG)
@@ -32,7 +32,7 @@ Demo:
 ![start](resources/images/beginning-window.png)
 ![play](resources/images/gameplay.png)
 
-Or you can watch the demo on YouTube [here](https://youtu.be/ZDKSKEFhWOg).
+Demo video on YouTube [here](https://youtu.be/ZDKSKEFhWOg).
 
 ## To Do
 ### Current Version Game (v1.5): 
@@ -49,6 +49,7 @@ Or you can watch the demo on YouTube [here](https://youtu.be/ZDKSKEFhWOg).
 - [ ] 5. Even more players
 - [ ] 6. Shoot from mouth lol
 - [ ] 7. Speed up
+- [ ] 8. Larger map
 
 
 ## Build
@@ -75,9 +76,6 @@ You should be able to run the game by typing `./A\ Cnake`. Or, you can follow th
 To clean up the project folder, type `make clean`; such will delete the `obj` folder, but won't erase the `A Cnake` executable. 
 
 To really remove `A Cnake` game from your device, type `make remove`. 
-
-### Windows 
-:) No offense. But it should be easy :)
 
 ## Archive
 - [x] 1. win, lose, 平手, play again windows
