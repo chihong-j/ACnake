@@ -65,9 +65,7 @@ Type `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/
 Download **SFML** through terminal: 
 Type `brew install SFML`. (If your user setting doesn't fit the system requirement, i.e. your are not the root user, please follow the instruction on your terminal prompt.)
 
-Download this repository, copy and paste `git clone https://github.com/chihong-j/A-Cnake.git` in your terminal. 
-
-It should create a folder name **snake**.
+Download this repository
 
 Go to your project directory by typing `cd A-Cnake`, then type in `make`. It will create an extra `obj` folder to store objects created by the system. You may ignore the folder. 
 
